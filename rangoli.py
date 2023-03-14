@@ -1,3 +1,5 @@
+#Enter a number and it will take that many alphabet from abcde... and will print an uniform alphabet structure similar to rangoli
+
 size = int(input())
 lst = []
 alp = "abcdefghijklmnopqrstuvwxyz"
